@@ -60,7 +60,7 @@
     "karma-webpack": "^2.0.2",
     "less": "^2.7.2",
     "less-loader": "^2.2.3",
-    "lolex": "^1.5.2",
+    "lolex": "^4.2.0",
     "mocha": "^3.2.0",
     "nightwatch": "^0.9.12",
     "opn": "^4.0.2",
